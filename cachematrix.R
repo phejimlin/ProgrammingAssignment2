@@ -2,6 +2,7 @@
 ## The solution is caching the inverse of a matrix instead of computing repeatedly.
 ## Following functions : makeCacheMatrix and cacheSolve implement above description.
 
+
 ## makeCacheMatrix function have one matrix arg, and four sub function
 ## set : set the value of matrix
 ## get : get the value of matrix
